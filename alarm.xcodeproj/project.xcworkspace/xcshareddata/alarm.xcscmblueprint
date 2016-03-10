@@ -1,14 +1,16 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7D224867F610314571A09F8917CA92A689FB2E4E",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4BD37AE5713D02A3CE0DDF96CEEF5B06B646D196",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4BD37AE5713D02A3CE0DDF96CEEF5B06B646D196" : 0,
     "6D0FCC0E13DB7B0C174A9DCAB44CED3FAE4A446A" : 0,
     "7D224867F610314571A09F8917CA92A689FB2E4E" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "12FD93F8-314E-456C-9173-2E0AE07F089B",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4BD37AE5713D02A3CE0DDF96CEEF5B06B646D196" : "sleepeasy\/",
     "6D0FCC0E13DB7B0C174A9DCAB44CED3FAE4A446A" : "",
     "7D224867F610314571A09F8917CA92A689FB2E4E" : "alarm-clock"
   },
@@ -16,6 +18,11 @@
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "alarm.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vinfolchung\/sleepeasy.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4BD37AE5713D02A3CE0DDF96CEEF5B06B646D196"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CoffeeCool\/alarm.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",

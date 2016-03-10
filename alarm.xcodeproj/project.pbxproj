@@ -524,10 +524,10 @@
 				1D8D0B601BDB66B200FD8549 /* TableViewCell */,
 				1DFB93D61BD87D70000D6C0B /* TimePickerView.h */,
 				1DFB93D71BD87D70000D6C0B /* TimePickerView.m */,
-				41D7B8811BDA739400FD627C /* ClockSettingView.h */,
-				41BEDD621BE12831007E085C /* ClockSettingView.m */,
 				1D8D0B6C1BDB6D5D00FD8549 /* HomeCollectionView.h */,
 				1D8D0B6D1BDB6D5D00FD8549 /* HomeCollectionView.m */,
+				41D7B8811BDA739400FD627C /* ClockSettingView.h */,
+				41BEDD621BE12831007E085C /* ClockSettingView.m */,
 				419C7D611BDE641600F411CD /* MusicSeletedView.h */,
 				419C7D621BDE641600F411CD /* MusicSeletedView.m */,
 			);

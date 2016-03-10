@@ -2,7 +2,7 @@
 //  ColorManager.h
 //  颜色管理类
 //
-//  Created by Coffee on 15/10/20.
+//  Created by 钟文锋  on 15/10/20.
 //
 //
 

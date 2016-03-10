@@ -3,7 +3,7 @@
 //  alarm
 //
 //  Created by 钟文锋 on 15/11/6.
-//  Copyright © 2015年 webigstudio. All rights reserved.
+//  Copyright © 2015年 vinfol. All rights reserved.
 //
 
 #import "LocationManager.h"

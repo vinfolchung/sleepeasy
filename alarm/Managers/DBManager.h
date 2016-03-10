@@ -2,8 +2,8 @@
 //  DBManager.h
 //  alarm
 //
-//  Created by Coffee on 15/11/3.
-//  Copyright © 2015年 webigstudio. All rights reserved.
+//  Created by 钟文锋 on 15/11/3.
+//  Copyright © 2015年 vinfol. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

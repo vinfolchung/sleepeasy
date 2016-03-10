@@ -3,7 +3,7 @@
 //  alarm
 //
 //  Created by 钟文锋 on 15/10/23.
-//  Copyright © 2015年 webigstudio. All rights reserved.
+//  Copyright © 2015年 vinfol. All rights reserved.
 //
 
 #import "ClockSettingViewController.h"
@@ -28,6 +28,7 @@
 }
 
 #pragma mark - ClockSettingViewDelegate
+//点击音乐选择
 - (void)didSelectSound
 {
     self.musicSeletedVC.navigationItem.leftBarButtonItem.tintColor = [UIColor cyanColor];
@@ -36,7 +37,7 @@
     self.musicSeletedVC.delegate = self;
     [self.navigationController pushViewController:self.musicSeletedVC animated:YES];
 }
-     
+//选择音乐刷新
 #pragma mark - MusicSeletedVCDelegate
 - (void)getMusicName:(NSString *)musicName
 {

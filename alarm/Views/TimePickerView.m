@@ -2,8 +2,8 @@
 //  TimePickerView.m
 //  alarm
 //  自定义时间的PickerView
-//  Created by Coffee on 15/10/22.
-//  Copyright © 2015年 webigstudio. All rights reserved.
+//  Created by 钟文锋  on 15/10/22.
+//  Copyright © 2015年 vinfol. All rights reserved.
 //
 
 #import "TimePickerView.h"

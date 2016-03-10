@@ -2,7 +2,7 @@
 //  BlurredColorBackgroundView.m
 //  
 //
-//  Created by Coffee on 15/10/18.
+//  Created by 钟文锋  on 15/10/18.
 //
 //
 
